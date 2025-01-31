@@ -1,0 +1,12 @@
+fastapi
+aiologger[aiofiles]
+pip-chill
+uvicorn
+gunicorn
+openai
+duckduckgo_search
+qdrant-client
+markdownify
+aiohttp
+langchain
+googlesearch-python
